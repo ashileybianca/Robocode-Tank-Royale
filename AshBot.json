@@ -1,0 +1,14 @@
+{
+  "name": "AshBot",
+  "version": "1.0",
+  "authors": [
+    "Ashiley Bianca"
+  ],
+  "description": "Primeiro robo, para teste do RoboCode TankRoyale",
+  "homepage": "",
+  "countryCodes": [
+    "br"
+  ],
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}
